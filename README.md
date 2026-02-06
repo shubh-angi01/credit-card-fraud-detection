@@ -34,6 +34,12 @@ Random Forest was selected as the primary model due to its robustness and strong
  Jupyter Notebook
  Git/Github
 
+ ## Dataset
+
+ Due to file size limitations,the dataset is not included in this repository.
+ Download it from :
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 
 ##  Workflow
 
